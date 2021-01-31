@@ -12,7 +12,7 @@
 <div dir="ltr">
 
 ```bash
-cat compromised-usernames.txt | grep <username>
+grep <username> compromised-usernames.txt
 ```
 </div>
 
